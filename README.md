@@ -1,1 +1,1 @@
-# NLP_Paper_Projects
+# The tensorflow implementation of paper Distributed Representations of Sentences and Documents
